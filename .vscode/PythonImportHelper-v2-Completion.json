@@ -152,6 +152,14 @@
         "documentation": {}
     },
     {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
         "label": "models",
         "importPath": "django.db",
         "description": "django.db",
@@ -160,7 +168,127 @@
         "documentation": {}
     },
     {
-        "label": "IntegrityError",
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "transaction",
         "importPath": "django.db",
         "description": "django.db",
         "isExtraImport": true,
@@ -360,6 +488,22 @@
         "documentation": {}
     },
     {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
         "label": "django.contrib.auth.models",
         "kind": 6,
         "isExtraImport": true,
@@ -370,6 +514,22 @@
     },
     {
         "label": "AbstractUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "Group",
         "importPath": "django.contrib.auth.models",
         "description": "django.contrib.auth.models",
         "isExtraImport": true,
@@ -421,22 +581,6 @@
         "documentation": {}
     },
     {
-        "label": "get_user_model",
-        "importPath": "django.contrib.auth",
-        "description": "django.contrib.auth",
-        "isExtraImport": true,
-        "detail": "django.contrib.auth",
-        "documentation": {}
-    },
-    {
-        "label": "get_user_model",
-        "importPath": "django.contrib.auth",
-        "description": "django.contrib.auth",
-        "isExtraImport": true,
-        "detail": "django.contrib.auth",
-        "documentation": {}
-    },
-    {
         "label": "serializers",
         "importPath": "rest_framework",
         "description": "rest_framework",
@@ -445,7 +589,7 @@
         "documentation": {}
     },
     {
-        "label": "serializers",
+        "label": "exceptions",
         "importPath": "rest_framework",
         "description": "rest_framework",
         "isExtraImport": true,
@@ -509,6 +653,14 @@
         "documentation": {}
     },
     {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
         "label": "ObtainAuthToken",
         "importPath": "rest_framework.authtoken.views",
         "description": "rest_framework.authtoken.views",
@@ -530,30 +682,6 @@
         "description": "rest_framework.authtoken.models",
         "isExtraImport": true,
         "detail": "rest_framework.authtoken.models",
-        "documentation": {}
-    },
-    {
-        "label": "Response",
-        "importPath": "rest_framework.response",
-        "description": "rest_framework.response",
-        "isExtraImport": true,
-        "detail": "rest_framework.response",
-        "documentation": {}
-    },
-    {
-        "label": "APIView",
-        "importPath": "rest_framework.views",
-        "description": "rest_framework.views",
-        "isExtraImport": true,
-        "detail": "rest_framework.views",
-        "documentation": {}
-    },
-    {
-        "label": "IsAuthenticated",
-        "importPath": "rest_framework.permissions",
-        "description": "rest_framework.permissions",
-        "isExtraImport": true,
-        "detail": "rest_framework.permissions",
         "documentation": {}
     },
     {
@@ -714,11 +842,83 @@
         "documentation": {}
     },
     {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0003_remove_userprofile_user_type_userprofile_groups",
+        "description": "apps.users.migrations.0003_remove_userprofile_user_type_userprofile_groups",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('auth', '0012_alter_user_first_name_max_length'),\n        ('users', '0002_usertype_userprofile_user_type'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userprofile',\n            name='user_type',\n        ),",
+        "detail": "apps.users.migrations.0003_remove_userprofile_user_type_userprofile_groups",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0004_tag_remove_userprofile_avatar_and_more",
+        "description": "apps.users.migrations.0004_tag_remove_userprofile_avatar_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0003_remove_userprofile_user_type_userprofile_groups'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Tag',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=255, unique=True)),",
+        "detail": "apps.users.migrations.0004_tag_remove_userprofile_avatar_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0005_userprofile_family_name_address_and_more",
+        "description": "apps.users.migrations.0005_userprofile_family_name_address_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0004_tag_remove_userprofile_avatar_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='userprofile',\n            name='family_name',\n            field=models.CharField(blank=True, max_length=255, null=True),\n        ),",
+        "detail": "apps.users.migrations.0005_userprofile_family_name_address_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0006_remove_address_street_remove_address_user_profile_and_more",
+        "description": "apps.users.migrations.0006_remove_address_street_remove_address_user_profile_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0005_userprofile_family_name_address_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='address',\n            name='street',\n        ),\n        migrations.RemoveField(",
+        "detail": "apps.users.migrations.0006_remove_address_street_remove_address_user_profile_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0007_address_street_name_alter_address_street_number",
+        "description": "apps.users.migrations.0007_address_street_name_alter_address_street_number",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0006_remove_address_street_remove_address_user_profile_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='address',\n            name='street_name',\n            field=models.CharField(blank=True, max_length=50, null=True),\n        ),",
+        "detail": "apps.users.migrations.0007_address_street_name_alter_address_street_number",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0008_remove_userprofile_address_and_more",
+        "description": "apps.users.migrations.0008_remove_userprofile_address_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0007_address_street_name_alter_address_street_number'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='userprofile',\n            name='address',\n        ),\n        migrations.AddField(",
+        "detail": "apps.users.migrations.0008_remove_userprofile_address_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0009_address_created_at_address_created_by_and_more",
+        "description": "apps.users.migrations.0009_address_created_at_address_created_by_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0008_remove_userprofile_address_and_more'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='address',\n            name='created_at',\n            field=models.DateTimeField(auto_now_add=True, default=django.utils.timezone.now),\n            preserve_default=False,",
+        "detail": "apps.users.migrations.0009_address_created_at_address_created_by_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "apps.users.migrations.0010_remove_address_user_address_user_profile",
+        "description": "apps.users.migrations.0010_remove_address_user_address_user_profile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('users', '0009_address_created_at_address_created_by_and_more'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='address',\n            name='user',\n        ),\n        migrations.AddField(",
+        "detail": "apps.users.migrations.0010_remove_address_user_address_user_profile",
+        "documentation": {}
+    },
+    {
         "label": "UserProfileAdmin",
         "kind": 6,
         "importPath": "apps.users.admin",
         "description": "apps.users.admin",
-        "peekOfCode": "class UserProfileAdmin(admin.ModelAdmin):\n    list_display = ('user', 'user_type', 'bio')\n@admin.register(CustomUser)\nclass CustomUserAdmin(UserAdmin):\n    pass\n@admin.register(UserType)\nclass UserTypeAdmin(admin.ModelAdmin):\n    list_display = ('name',)",
+        "peekOfCode": "class UserProfileAdmin(admin.ModelAdmin):\n    list_display = ('user', 'get_groups', 'bio')\n    def get_groups(self, obj):\n        return \", \".join([group.name for group in obj.groups.all()])\n    get_groups.short_description = 'Groups'\n@admin.register(CustomUser)\nclass CustomUserAdmin(UserAdmin):\n    pass\n@admin.register(UserType)\nclass UserTypeAdmin(admin.ModelAdmin):",
         "detail": "apps.users.admin",
         "documentation": {}
     },
@@ -750,11 +950,38 @@
         "documentation": {}
     },
     {
+        "label": "BaseModel",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class BaseModel(models.Model):\n    created_at = models.DateTimeField(auto_now_add=True)\n    updated_at = models.DateTimeField(auto_now=True)\n    created_by = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.SET_NULL, null=True, related_name=\"%(class)s_created_by\")\n    updated_by = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.SET_NULL, null=True, related_name=\"%(class)s_updated_by\")\n    class Meta:\n        abstract = True\nclass UserType(BaseModel):\n    name = models.CharField(max_length=255, unique=True)\n    def __str__(self):",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
         "label": "UserType",
         "kind": 6,
         "importPath": "apps.users.models",
         "description": "apps.users.models",
-        "peekOfCode": "class UserType(models.Model):\n    name = models.CharField(max_length=255, unique=True)\n    def __str__(self):\n        return self.name\nclass UserProfile(models.Model):\n    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name=\"profile\")\n    avatar = models.ImageField(upload_to='avatars/', null=True, blank=True)  #\n    bio = models.TextField(null=True, blank=True)\n    user_type = models.ForeignKey(UserType, on_delete=models.SET_NULL, null=True, blank=True)\n    def __str__(self):",
+        "peekOfCode": "class UserType(BaseModel):\n    name = models.CharField(max_length=255, unique=True)\n    def __str__(self):\n        return self.name\nclass Tag(BaseModel):\n    name = models.CharField(max_length=255, unique=True)\n    def __str__(self):\n        return self.name\nclass Address(BaseModel):\n    user_profile = models.ForeignKey('UserProfile', on_delete=models.CASCADE, related_name=\"addresses\", null=True, blank=True)",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Tag",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class Tag(BaseModel):\n    name = models.CharField(max_length=255, unique=True)\n    def __str__(self):\n        return self.name\nclass Address(BaseModel):\n    user_profile = models.ForeignKey('UserProfile', on_delete=models.CASCADE, related_name=\"addresses\", null=True, blank=True)\n    street_number = models.CharField(max_length=50, default='1')  \n    street_name = models.CharField(max_length=50, blank=True, null=True)  \n    unit_number = models.CharField(max_length=50, blank=True, null=True)  \n    city = models.CharField(max_length=255)",
+        "detail": "apps.users.models",
+        "documentation": {}
+    },
+    {
+        "label": "Address",
+        "kind": 6,
+        "importPath": "apps.users.models",
+        "description": "apps.users.models",
+        "peekOfCode": "class Address(BaseModel):\n    user_profile = models.ForeignKey('UserProfile', on_delete=models.CASCADE, related_name=\"addresses\", null=True, blank=True)\n    street_number = models.CharField(max_length=50, default='1')  \n    street_name = models.CharField(max_length=50, blank=True, null=True)  \n    unit_number = models.CharField(max_length=50, blank=True, null=True)  \n    city = models.CharField(max_length=255)\n    state = models.CharField(max_length=255)\n    postal_code = models.CharField(max_length=10)  \n    country = models.CharField(max_length=255)\n    landmark = models.CharField(max_length=255, blank=True, null=True)  ",
         "detail": "apps.users.models",
         "documentation": {}
     },
@@ -763,7 +990,7 @@
         "kind": 6,
         "importPath": "apps.users.models",
         "description": "apps.users.models",
-        "peekOfCode": "class UserProfile(models.Model):\n    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name=\"profile\")\n    avatar = models.ImageField(upload_to='avatars/', null=True, blank=True)  #\n    bio = models.TextField(null=True, blank=True)\n    user_type = models.ForeignKey(UserType, on_delete=models.SET_NULL, null=True, blank=True)\n    def __str__(self):\n        return self.user.username\nclass CustomUser(AbstractUser):\n    pass  # For now, use the default fields provided by AbstractUser",
+        "peekOfCode": "class UserProfile(BaseModel):\n    user = models.OneToOneField(settings.AUTH_USER_MODEL, on_delete=models.CASCADE, related_name=\"profile\")\n    full_name = models.CharField(max_length=255, blank=True, null=True)\n    family_name = models.CharField(max_length=255, blank=True, null=True)\n    phone_number = models.CharField(max_length=15, blank=True, null=True)\n    date_of_birth = models.DateField(blank=True, null=True)\n    gender = models.CharField(max_length=10, choices=[('Male', 'Male'), ('Female', 'Female'), ('Other', 'Other')], blank=True, null=True)\n    primary_address = models.ForeignKey(Address, on_delete=models.SET_NULL, blank=True, null=True, related_name=\"primary_for_users\")\n    profile_picture = models.ImageField(upload_to='profile_pictures/', null=True, blank=True)\n    bio = models.TextField(blank=True, null=True)",
         "detail": "apps.users.models",
         "documentation": {}
     },
@@ -772,16 +999,25 @@
         "kind": 6,
         "importPath": "apps.users.models",
         "description": "apps.users.models",
-        "peekOfCode": "class CustomUser(AbstractUser):\n    pass  # For now, use the default fields provided by AbstractUser",
+        "peekOfCode": "class CustomUser(AbstractUser, BaseModel):\n    pass",
         "detail": "apps.users.models",
         "documentation": {}
     },
     {
-        "label": "UserTypeSerializer",
+        "label": "UserSerializer",
         "kind": 6,
         "importPath": "apps.users.serializers",
         "description": "apps.users.serializers",
-        "peekOfCode": "class UserTypeSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = UserType\n        fields = \"__all__\"\nclass UserProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = UserProfile\n        fields = ('avatar', 'bio')\nclass UserSerializer(serializers.ModelSerializer):\n    profile = UserProfileSerializer()",
+        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    groups = serializers.SlugRelatedField(slug_field='name', many=True, queryset=Group.objects.all())\n    class Meta:\n        model = CustomUser\n        fields = ['id', 'username', 'email', 'groups']\nclass AddressSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Address\n        fields = ('street_number', 'street_name', 'unit_number', 'city', 'state', 'postal_code', 'country', 'landmark')\nclass UserProfileSerializer(serializers.ModelSerializer):",
+        "detail": "apps.users.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AddressSerializer",
+        "kind": 6,
+        "importPath": "apps.users.serializers",
+        "description": "apps.users.serializers",
+        "peekOfCode": "class AddressSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Address\n        fields = ('street_number', 'street_name', 'unit_number', 'city', 'state', 'postal_code', 'country', 'landmark')\nclass UserProfileSerializer(serializers.ModelSerializer):\n    addresses = AddressSerializer(many=True)  # related to the UserProfile via 'addresses' related_name\n    class Meta:\n        model = UserProfile\n        fields = ('full_name', 'family_name', 'phone_number', 'date_of_birth', 'gender', 'addresses', 'bio', 'profile_picture', 'social_media_links')  # added 'addresses'\n    def create(self, validated_data):",
         "detail": "apps.users.serializers",
         "documentation": {}
     },
@@ -790,16 +1026,7 @@
         "kind": 6,
         "importPath": "apps.users.serializers",
         "description": "apps.users.serializers",
-        "peekOfCode": "class UserProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = UserProfile\n        fields = ('avatar', 'bio')\nclass UserSerializer(serializers.ModelSerializer):\n    profile = UserProfileSerializer()\n    class Meta:\n        model = get_user_model()\n        fields = ['id', 'username', 'email', 'first_name', 'last_name', 'profile']\nfrom django.contrib.auth import get_user_model",
-        "detail": "apps.users.serializers",
-        "documentation": {}
-    },
-    {
-        "label": "UserSerializer",
-        "kind": 6,
-        "importPath": "apps.users.serializers",
-        "description": "apps.users.serializers",
-        "peekOfCode": "class UserSerializer(serializers.ModelSerializer):\n    profile = UserProfileSerializer()\n    class Meta:\n        model = get_user_model()\n        fields = ['id', 'username', 'email', 'first_name', 'last_name', 'profile']\nfrom django.contrib.auth import get_user_model\nfrom rest_framework import serializers\nclass UserRegistrationSerializer(serializers.ModelSerializer):\n    user_type = serializers.SlugRelatedField(queryset=UserType.objects.all(), slug_field='name', required=True)\n    class Meta:",
+        "peekOfCode": "class UserProfileSerializer(serializers.ModelSerializer):\n    addresses = AddressSerializer(many=True)  # related to the UserProfile via 'addresses' related_name\n    class Meta:\n        model = UserProfile\n        fields = ('full_name', 'family_name', 'phone_number', 'date_of_birth', 'gender', 'addresses', 'bio', 'profile_picture', 'social_media_links')  # added 'addresses'\n    def create(self, validated_data):\n        addresses_data = validated_data.pop('addresses', [])  # Set a default value of empty list\n        profile = UserProfile.objects.create(**validated_data)\n        for address_data in addresses_data:\n            Address.objects.create(user_profile=profile, **address_data)",
         "detail": "apps.users.serializers",
         "documentation": {}
     },
@@ -808,7 +1035,7 @@
         "kind": 6,
         "importPath": "apps.users.serializers",
         "description": "apps.users.serializers",
-        "peekOfCode": "class UserRegistrationSerializer(serializers.ModelSerializer):\n    user_type = serializers.SlugRelatedField(queryset=UserType.objects.all(), slug_field='name', required=True)\n    class Meta:\n        model = get_user_model()\n        fields = ['username', 'email', 'password', 'first_name', 'last_name', 'user_type']\n        extra_kwargs = {\n            'password': {'write_only': True, 'required': True}\n        }\n    # def create(self, validated_data):\n    #     user = get_user_model().objects.create_user(",
+        "peekOfCode": "class UserRegistrationSerializer(serializers.ModelSerializer):\n    profile = UserProfileSerializer(required=True)\n    groups = serializers.PrimaryKeyRelatedField(many=True, queryset=Group.objects.all(), required=True)\n    class Meta:\n        model = CustomUser\n        fields = ('username', 'password', 'email', 'profile', 'groups')\n        extra_kwargs = {'password': {'write_only': True}}\n    @transaction.atomic\n    def create(self, validated_data):\n        try:",
         "detail": "apps.users.serializers",
         "documentation": {}
     },
@@ -853,7 +1080,7 @@
         "kind": 5,
         "importPath": "apps.users.urls",
         "description": "apps.users.urls",
-        "peekOfCode": "urlpatterns = [\n    path('users/', UserListCreateView.as_view(), name='user-list-create'),\n    path('users/<int:pk>/', UserRetrieveUpdateDestroyView.as_view(), name='user-retrieve-update-destroy'),\n    path('login/', CustomObtainAuthToken.as_view(), name='api-token-auth'),\n    path('register/', UserRegistrationView.as_view(), name='register'),\n    path('user-types/', UserTypeListView.as_view(), name='user-type-list'),\n    path('user-types/<int:pk>/', UserTypeDetailView.as_view(), name='user-type-detail'),\n]",
+        "peekOfCode": "urlpatterns = [\n    path('users/', UserListCreateView.as_view(), name='user-list-create'),\n    path('users/<int:pk>/', UserRetrieveUpdateDestroyView.as_view(), name='user-retrieve-update-destroy'),\n    path('login/', CustomObtainAuthToken.as_view(), name='api-token-auth'),\n    path('register/', RegisterView.as_view(), name='register'),\n]",
         "detail": "apps.users.urls",
         "documentation": {}
     },
@@ -862,7 +1089,7 @@
         "kind": 6,
         "importPath": "apps.users.views",
         "description": "apps.users.views",
-        "peekOfCode": "class UserListCreateView(generics.ListCreateAPIView):\n    \"\"\"\n    get:\n    Return a list of all existing users.\n    post:\n    Create a new user.\n    \"\"\"\n    queryset = CustomUser.objects.all()\n    serializer_class = UserSerializer\nclass UserRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):",
+        "peekOfCode": "class UserListCreateView(generics.ListCreateAPIView):\n    queryset = CustomUser.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [permissions.IsAuthenticated]\nclass UserRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = CustomUser.objects.all()\n    serializer_class = UserSerializer\nclass CustomObtainAuthToken(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        response = super().post(request, *args, **kwargs)",
         "detail": "apps.users.views",
         "documentation": {}
     },
@@ -871,7 +1098,7 @@
         "kind": 6,
         "importPath": "apps.users.views",
         "description": "apps.users.views",
-        "peekOfCode": "class UserRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = CustomUser.objects.all()\n    serializer_class = UserSerializer\nclass CustomObtainAuthToken(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        response = super().post(request, *args, **kwargs)\n        token = Token.objects.get(key=response.data['token'])\n        return Response({'token': token.key, 'id': token.user_id, 'username': token.user.username})\nclass RegisterView(APIView):\n    def post(self, request):",
+        "peekOfCode": "class UserRetrieveUpdateDestroyView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = CustomUser.objects.all()\n    serializer_class = UserSerializer\nclass CustomObtainAuthToken(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        response = super().post(request, *args, **kwargs)\n        token = Token.objects.get(key=response.data['token'])\n        user = CustomUser.objects.get(id=token.user_id)\n        groups = [group.name for group in user.groups.all()]\n        return Response({",
         "detail": "apps.users.views",
         "documentation": {}
     },
@@ -880,7 +1107,7 @@
         "kind": 6,
         "importPath": "apps.users.views",
         "description": "apps.users.views",
-        "peekOfCode": "class CustomObtainAuthToken(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        response = super().post(request, *args, **kwargs)\n        token = Token.objects.get(key=response.data['token'])\n        return Response({'token': token.key, 'id': token.user_id, 'username': token.user.username})\nclass RegisterView(APIView):\n    def post(self, request):\n        serializer = UserSerializer(data=request.data)\n        if serializer.is_valid():\n            try:",
+        "peekOfCode": "class CustomObtainAuthToken(ObtainAuthToken):\n    def post(self, request, *args, **kwargs):\n        response = super().post(request, *args, **kwargs)\n        token = Token.objects.get(key=response.data['token'])\n        user = CustomUser.objects.get(id=token.user_id)\n        groups = [group.name for group in user.groups.all()]\n        return Response({\n            'token': token.key,\n            'id': token.user_id,\n            'username': token.user.username,",
         "detail": "apps.users.views",
         "documentation": {}
     },
@@ -889,43 +1116,7 @@
         "kind": 6,
         "importPath": "apps.users.views",
         "description": "apps.users.views",
-        "peekOfCode": "class RegisterView(APIView):\n    def post(self, request):\n        serializer = UserSerializer(data=request.data)\n        if serializer.is_valid():\n            try:\n                serializer.save()\n                return Response(serializer.data, status=status.HTTP_201_CREATED)\n            except IntegrityError:\n                return Response({\"error\": \"Username or email already exists.\"}, status=status.HTTP_400_BAD_REQUEST)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)",
-        "detail": "apps.users.views",
-        "documentation": {}
-    },
-    {
-        "label": "UserListCreateView",
-        "kind": 6,
-        "importPath": "apps.users.views",
-        "description": "apps.users.views",
-        "peekOfCode": "class UserListCreateView(generics.ListCreateAPIView):\n    queryset = CustomUser.objects.all()\n    serializer_class = UserSerializer\n    permission_classes = [IsAuthenticated]\nclass UserRegistrationView(generics.CreateAPIView):\n    serializer_class = UserRegistrationSerializer\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        if serializer.is_valid():\n            self.perform_create(serializer)",
-        "detail": "apps.users.views",
-        "documentation": {}
-    },
-    {
-        "label": "UserRegistrationView",
-        "kind": 6,
-        "importPath": "apps.users.views",
-        "description": "apps.users.views",
-        "peekOfCode": "class UserRegistrationView(generics.CreateAPIView):\n    serializer_class = UserRegistrationSerializer\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        if serializer.is_valid():\n            self.perform_create(serializer)\n            return Response(serializer.data, status=status.HTTP_201_CREATED)\n        return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)\nclass UserTypeListView(generics.ListCreateAPIView):\n    queryset = UserType.objects.all()",
-        "detail": "apps.users.views",
-        "documentation": {}
-    },
-    {
-        "label": "UserTypeListView",
-        "kind": 6,
-        "importPath": "apps.users.views",
-        "description": "apps.users.views",
-        "peekOfCode": "class UserTypeListView(generics.ListCreateAPIView):\n    queryset = UserType.objects.all()\n    serializer_class = UserTypeSerializer\n    permission_classes = [permissions.IsAdminUser]  # Only allow admin to create or list user types\nclass UserTypeDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = UserType.objects.all()\n    serializer_class = UserTypeSerializer\n    permission_classes = [permissions.IsAdminUser]  # Only allow admin to update, delete, or retrieve user types",
-        "detail": "apps.users.views",
-        "documentation": {}
-    },
-    {
-        "label": "UserTypeDetailView",
-        "kind": 6,
-        "importPath": "apps.users.views",
-        "description": "apps.users.views",
-        "peekOfCode": "class UserTypeDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = UserType.objects.all()\n    serializer_class = UserTypeSerializer\n    permission_classes = [permissions.IsAdminUser]  # Only allow admin to update, delete, or retrieve user types",
+        "peekOfCode": "class RegisterView(generics.CreateAPIView):\n    queryset = CustomUser.objects.all()\n    serializer_class = UserRegistrationSerializer\n    def create(self, request, *args, **kwargs):\n        serializer = self.get_serializer(data=request.data)\n        serializer.is_valid(raise_exception=True)\n        user = self.perform_create(serializer)\n        headers = self.get_success_headers(serializer.data)\n        return Response(serializer.data, status=status.HTTP_201_CREATED, headers=headers)\n    def perform_create(self, serializer):",
         "detail": "apps.users.views",
         "documentation": {}
     },
