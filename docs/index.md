@@ -6,57 +6,58 @@ title: My Django Project Documentation
 
 ## Overview
 
-This is a Django project that aims to provide user management functionalities with enhanced features.
+This Django project is geared towards delivering an impeccable user management system with some added flair in features.
 
 ## Features
 
 ### 1. **User Authentication**
 
-- **Registration**: Users can register on the platform by providing their details.
-- **Login**: Registered users can log in using their credentials.
+- **Registration**: Users can sign up by furnishing necessary details. During the registration process, the user's first name and last name are automatically derived from the provided full name and family name.
+- **Login**: Those who've already registered can smoothly log in with their set credentials.
 
 ### 2. **User Profile Management**
 
-- **Profile Creation**: Upon registration, a profile is automatically created for the user.
-- **Profile Update**: Users can update their avatars and bio information.
+- **Profile Creation**: A profile gets auto-generated once a user registers.
+- **Profile Update**: Users can conveniently change their profile pictures and elaborate a little about themselves in the bio section.
+- **Addresses**: Users can add multiple addresses to their profile, making it easier for service deliveries or mailings.
 
 ### 3. **User Types**
 
-Users can be assigned specific types. These types dictate the functionalities and access levels they possess. Currently, the system supports the following user types:
+The user gets a type label which will determine the services and functionalities accessible to them. The following are the types of users:
 
-- **Customer**: Regular users looking to utilize the platform's services.
-- **Chef**: Users offering culinary services on the platform.
+- **Customer**: These are the everyday users scouting for services the platform offers.
+- **Chef**: These users proffer culinary skills as a service on the platform.
 
-The admin has the privilege to dynamically add, update, read, or delete user types, making the system flexible to accommodate future roles.
+An added advantage is the admin's power to alter, add, or delete user types, ensuring adaptability to any changes in roles in the future.
 
 ### 4. **Admin Privileges**
 
-Users with admin rights have the following capabilities:
+Users crowned with admin rights can:
 
-- Assigning and modifying user types.
-- Overseeing user profiles and making necessary adjustments.
+- Play around with user types — assign or modify.
+- View user profiles and make necessary tweaks.
 
 ## Technical Details
 
 ### 1. **Django Version**
 
-The project is built using Django version 4.1.1.
+The backbone of the project, Django, is of version 4.1.1.
 
 ### 2. **Database**
 
-SQLite is the primary database for the project, providing lightweight and efficient data storage.
+SQLite stands as the project's cornerstone, ensuring data storage is both light and efficient.
 
 ### 3. **Dependencies**
 
-- **Django Rest Framework (DRF)**: Used for building APIs.
-- **DRF Spectacular**: Provides an interactive API documentation using Swagger UI.
-- **Corsheaders**: Handles the server headers required for CORS.
+- **Django Rest Framework (DRF)**: A lifesaver for constructing APIs.
+- **DRF Spectacular**: Enhances the API documentation by making it interactive using the Swagger UI.
+- **Corsheaders**: Manages the server headers, essential for CORS.
 
 ## Getting Started
 
 ### 1. **Installation**
 
-Clone the repository and navigate to the root directory.
+Kick things off by cloning the repository and head straight to the root directory.
 
 ```bash
 pip install -r requirements.txt
