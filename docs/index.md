@@ -8,6 +8,48 @@ title: My Django Project Documentation
 
 This Django project is geared towards delivering an impeccable user management system with some added flair in features.
 
+## Project Structure
+
+project/
+│
+├── manage.py
+│
+├── apps/
+│ ├── users/
+│ │ ├── migrations/
+│ │ ├── templates/
+│ │ ├── init.py
+│ │ ├── admin.py
+│ │ ├── apps.py
+│ │ ├── models.py
+│ │ ├── serializers.py
+│ │ ├── urls.py
+│ │ └── views.py
+│ └── ... (other app directories with a similar structure)
+│
+├── docker/
+│ ├── Dockerfile
+│ └── docker-compose.yaml
+│
+├── static/
+│ └── ... (static files: CSS, JS, images, etc.)
+│
+├── templates/
+│ └── ... (global template files)
+│
+├── media/
+│ └── ... (uploaded media files)
+│
+├── main/
+│ ├── init.py
+│ ├── settings.py
+│ ├── urls.py
+│ └── wsgi.py
+│
+├── requirements.txt
+│
+└── README.md
+
 ## Features
 
 ### 1. **User Authentication**
@@ -42,6 +84,7 @@ Users crowned with admin rights can:
 ### 1. **Django Version**
 
 The backbone of the project, Django, is of version 4.1.1.
+
 
 ### 2. **Database**
 
